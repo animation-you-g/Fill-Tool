@@ -1,0 +1,26 @@
+Copyright © 2025 YOU-G. All rights reserved.
+
+FillTool License Agreement
+
+Permission is granted to use and share FillTool free of charge for personal and commercial purposes, provided that:
+
+1. The Software must not be modified, reverse engineered, or used to create derivative works.  
+
+2. Redistribution or resale of the Software for profit is strictly prohibited.  
+
+3. Hosting or distributing the Software on third-party websites, app stores, or repositories is prohibited.  
+
+   The only official distribution site for FillTool is: https://animationtools-you-g.netlify.app/  
+
+   Instagram Account Link: https://www.instagram.com/you.g_18/
+
+   The Instagram account "YOU-G" (Instagram Username: you.g_18) is the official account of the owner of FillTool.  
+   The Instagram link is mentioned here solely so that users can find the official site link in the bio and download FillTool from a legitimate and original source.  
+
+4. This copyright and license notice must remain intact in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+Note:
+Netlify and Instagram are only used as convenient official platforms by the owner to provide users with access to FillTool. They are not third-party distributors of the Software.
